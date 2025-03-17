@@ -2,6 +2,8 @@
 
 ![Website Interface](screenshot.png)
 
+Live review: [Click here!](https://lynnhtetkyaw95.github.io/pig-game-dice-rolling-game/)
+
 In this project, we are going to build the Pig Game (dice Rolling) that can be played with two players. The technologies we using are:
 
 - HTML
